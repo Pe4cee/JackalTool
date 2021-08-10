@@ -1,3 +1,9 @@
-1-2 calısmıyorsa sqlmapi indirmemissinizdir.
-3-4 çalışmıyor ise nmap yüklü degildir
-5-6 calışmıyor ise modem ve Request Scripti Yüklü Degildir.
+1-2 calismiyorsa sqlmapi indirmemissinizdir.
+3-4 Ã§alismiyor ise nmap yÃ¼klÃ¼ degildir
+5-6 calismiyor ise modem ve Request Scripti YÃ¼klÃ¼ Degildir.
+
+NOT : 1-2 Icin JackalTool Klasorunun Icerisine 
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap
+bunu yazÄ±nÄ±z
+sonra 1-2 Ã§alÄ±ÅŸacaktÄ±r.
+
